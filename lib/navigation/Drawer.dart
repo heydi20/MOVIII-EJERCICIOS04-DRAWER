@@ -31,7 +31,7 @@ class MiDrawer extends StatelessWidget {
           ),
           ListTile(
             title: Text("Ejercicio 3"),
-            onTap: () => Navigator.push(context, MaterialPageRoute(builder: (context)=>Ejercico3())),
+            onTap: () => Navigator.push(context, MaterialPageRoute(builder: (context)=>Ejercicio3())),
           )
         ],
       ),
